@@ -13,3 +13,8 @@ Nuestro Objetivo:
 • Carga de hasta 5 artículos de muestra.
 • Vinculación con las redes sociales.
 
+Funcionalidades:
+Programar el código para hacer que la interfaz sea atractiva, intuitiva y que la experiencia de usuario (navegación) sea agradable para su público objetivo.​Trabajar por y para el usuario final teniendo en cuenta: Usabilidad (facilidad en la navegación), Accesibilidad desde cualquier dispositivo (eliminación de barreras para la equiparación de oportunidades) y la experiencia de usuario al utilizar el entorno digital y su satisfacción.​Trabajar en equipo.Estructura de aplicaciones cliente - servidor.Versionado de código con GIT.
+Conocimientos:
+Se trabajan los lenguajes de programación que le ayuden a diseñar el interfaz de usuario como por ejemplo: HTML5, CSS3​Javascript frameworks de desarrollo que permiten muchas más funcionalidades. Algunos son: NodeJs, Express Conocimiento básico MySQL.Aplicaremos metodologías ágiles (scrum).Conocimientos en programación front-end Dominio de los lenguajes front-end fundamentales como HTML, CSS y JavaScript Dominio de los sistemas de control de versiones – Git.
+
